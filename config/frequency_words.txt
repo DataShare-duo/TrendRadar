@@ -1,14 +1,11 @@
-华为
-鸿蒙
-HarmonyOS
-任正非
+Bitdeer
+吴忌寒
 
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
+区块链
+比特币
+ETH
+FIL
+NEAR
 
 特斯拉
 马斯克
@@ -31,43 +28,12 @@ chatgpt
 openai
 sora
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
 
-自动驾驶
-
-机器人
-
-国产
-中国
-!共产党
-!习近平
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
 科技
 
-新质生产力
-
-A股
 康美药业
-
-BitDeer
-吴忌寒
-比特币
-ETH
-FIL
-NEAR
 
 
